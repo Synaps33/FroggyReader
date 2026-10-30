@@ -1,0 +1,100 @@
+Third-party components and notices
+=================================
+
+miniz 3.1.0 (third_party/miniz.c, miniz.h)
+  Copyright 2013-2014 RAD Game Tools and Valve Software
+  Copyright 2010-2014 Rich Geldreich and Tenacious Software LLC
+  MIT license / public domain. See the header of third_party/miniz.c.
+
+stb_image 2.30 (third_party/stb_image.h)
+  Copyright (c) 2017 Sean Barrett
+  MIT license / public domain. See the header of third_party/stb_image.h.
+
+DejaVu Serif Condensed and DejaVu Sans Condensed
+(glyph atlases embedded in src/fonts_data.c and src/fonts_ui_data.c)
+  Generated from DejaVu fonts by tools/gen_fonts.py.
+  Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
+  Bitstream Vera is a trademark of Bitstream, Inc.
+  DejaVu changes are in the public domain.
+  License: Bitstream Vera License.
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of the fonts accompanying this license ("Fonts") and associated
+  documentation files (the "Font Software"), to reproduce and distribute the
+  Font Software, including without limitation the rights to use, copy, merge,
+  publish, distribute, and/or sell copies of the Font Software, and to permit
+  persons to whom the Font Software is furnished to do so, subject to the
+  following conditions:
+
+  The above copyright and trademark notices and this permission notice shall
+  be included in all copies of one or more of the Font Software typefaces.
+
+  The Font Software may be modified, altered, or added to, and in particular
+  the designs of glyphs or characters in the Fonts may be modified and
+  additional glyphs or characters may be added, and the Font Software may be
+  renamed, only if the names of the modified fonts do not contain the words
+  "Bitstream" or "Vera".
+
+  This License becomes null and void to the extent applicable to Fonts or
+  Font Software that has been modified and is distributed under the
+  "Bitstream Vera" names.
+
+  The Font Software may be sold as part of a larger software package but no
+  copy of one or more of the Font Software typefaces may be sold by itself.
+
+  THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+  OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,
+  TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME
+  FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING
+  ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,
+  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+  THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE
+  FONT SOFTWARE.
+
+Sample EPUB books and their generated cover illustrations are original
+test fixtures produced by tools/make_test_library.py for this project.
+
+VL Gothic / M+ / SazanamiFont (Japanese UI glyphs in src/fonts_data.c and src/fonts_ui_data.c)
+  Generated from /usr/share/fonts/truetype/vlgothic/VL-Gothic-Regular.ttf
+  by tools/gen_fonts.py. Only bitmap glyphs for the Japanese UI strings are
+  embedded; the TTF itself is not distributed.
+  Copyright: 1990-2003 Wada Laboratory, the University of Tokyo.
+             2003-2004 Electronic Font Open Laboratory (/efont/).
+             2003-2014 M+ FONTS PROJECT.
+             2006-2014 Daisuke SUZUKI <daisuke@vinelinux.org>.
+             2006-2014 Project Vine <Vine@vinelinux.org>.
+  License: M+Font and SazanamiFont and BSD-3-Clause.
+
+  BSD-3-Clause:
+  Redistribution and use in source and binary forms, with or without
+  modification, are permitted provided that the following conditions are met:
+  1. Redistributions of source code must retain the above copyright notice,
+     this list of conditions and the following disclaimer.
+  2. Redistributions in binary form must reproduce the above copyright
+     notice, this list of conditions and the following disclaimer in the
+     documentation and/or other materials provided with the distribution.
+  3. Neither the name of the Wada Laboratory, the University of Tokyo nor the
+     names of its contributors may be used to endorse or promote products
+     derived from this software without specific prior written permission.
+
+  THIS SOFTWARE IS PROVIDED BY WADA LABORATORY, THE UNIVERSITY OF TOKYO AND
+  CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT
+  NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+  PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE LABORATORY OR
+  CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+  EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+  PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+  OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+  M+Font:
+  These fonts are free software. Unlimited permission is granted to use,
+  copy, and distribute it, with or without modification, either commercially
+  and noncommercially. THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
+
+  SazanamiFont:
+  Binary data is handled equivalent to source code license. There is no
+  limitation for embedding the font in documents.

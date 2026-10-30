@@ -1,0 +1,28 @@
+# Build trees
+build_host/
+build_mips/
+build_sf2000/
+build_core_sf2000/
+build_core_gb300/
+*.o
+*.a
+runner/test_runner
+runner/test_runner_mips
+
+# Device binaries are published as release assets, not committed
+dist/*.sf2k
+dist/*.gb3k
+dist/*.elf
+dist/*.zip
+dist/SHA256SUMS.txt
+
+# Test state and logs
+build_*/test_state_*/
+library/.state/
+*.log
+*.ppm
+
+# Editors and OS metadata
+.vscode/
+.idea/
+.DS_Store

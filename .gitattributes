@@ -1,0 +1,11 @@
+src/fonts_data.c linguist-generated=true
+src/fonts_ui_data.c linguist-generated=true
+
+*.epub binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.bmp binary
+*.sf2k binary
+*.gb3k binary
+*.elf binary
